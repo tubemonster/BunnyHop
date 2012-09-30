@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<levels>
+		<level name="lvl_1" width = "128">
+			<groundObjs>
+				<ground type = "ground" x="64" y="532"></ground>
+				<ground type = "ground" x="192" y="532"></ground>
+				<ground type = "ground" x="320" y="532"></ground>
+				<ground type = "ground" x="448" y="532"></ground>
+				<ground type = "ground" x="576" y="532"></ground>
+				<ground type = "ground" x="704" y="532"></ground>
+			</groundObjs>
+			
+			<groundObsObjs>
+				<groundObs type = "hole" x = "320" y="532"></groundObs>
+			</groundObsObjs>
+			
+			<obsObjs>
+				<obs type = "tree_trunk" x ="480" y="420"></obs>
+				<obs type = "tree_trunk" x ="840" y="420"></obs>
+			</obsObjs>
+			
+			<itemObjs>
+			</itemObjs>
+ 
+		</level>
+	</levels>
+</data>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<levels>
+		<level name="lvl_1" width = "2048">
+			<groundObjs>
+				<ground type = "ground" x="64" y="532"></ground>
+				<ground type = "ground" x="192" y="532"></ground>
+				<ground type = "ground" x="320" y="532"></ground>
+				<ground type = "ground" x="448" y="532"></ground>
+				<ground type = "ground" x="576" y="532"></ground>
+				<ground type = "ground" x="704" y="532"></ground>
+				<ground type = "ground" x="832" y="532"></ground>
+				<ground type = "ground" x="960" y="532"></ground>
+				<ground type = "ground" x="1088" y="532"></ground>
+				<ground type = "ground" x="1216" y="532"></ground>
+				<ground type = "ground" x="1344" y="532"></ground>
+				<ground type = "ground" x="1472" y="532"></ground>
+				<ground type = "ground" x="1600" y="532"></ground>
+				<ground type = "ground" x="1728" y="532"></ground>
+				<ground type = "ground" x="1856" y="532"></ground>
+				<ground type = "ground" x="1984" y="532"></ground>
+			</groundObjs>
+			
+			<groundObsObjs>
+				<groundObs type = "hole" x = "64" y="532"></groundObs>
+			</groundObsObjs>
+			
+			<obsObjs>
+				<obs type = "tree_trunk" x ="1600" y="420"></obs>
+				<obs type = "tree_trunk" x ="840" y="420"></obs>
+			</obsObjs>
+			
+			<itemObjs>
+			</itemObjs>
+ 
+		</level>
+	</levels>
+</data>

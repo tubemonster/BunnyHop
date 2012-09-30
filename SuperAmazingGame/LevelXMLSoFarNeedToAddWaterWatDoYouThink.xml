@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<levels>
+		<level name="lvl_1" width = "12800">
+			<!---- 100 ground objects -->
+			<groundObjs>
+				<ground type = "ground" x="64" y="532"></ground>
+				<ground type = "ground" x="192" y="532"></ground>
+				<ground type = "ground" x="320" y="532"></ground>
+				<ground type = "ground" x="448" y="532"></ground>
+				<ground type = "ground" x="576" y="532"></ground>
+				<ground type = "ground" x="704" y="532"></ground>
+				<ground type = "ground" x="832" y="532"></ground>
+				<ground type = "ground" x="960" y="532"></ground>
+				<ground type = "ground" x="1088" y="532"></ground>
+				<ground type = "ground" x="1216" y="532"></ground>
+				<ground type = "ground" x="1344" y="532"></ground>
+				<ground type = "ground" x="1472" y="532"></ground>
+				<ground type = "ground" x="1600" y="532"></ground>
+				<ground type = "ground" x="1728" y="532"></ground>
+				<ground type = "ground" x="1856" y="532"></ground>
+				<ground type = "ground" x="1984" y="532"></ground>
+				<ground type = "ground" x="2112" y="532"></ground>
+				<ground type = "ground" x="2240" y="532"></ground>
+				<ground type = "ground" x="2368" y="532"></ground>
+				<ground type = "ground" x="2496" y="532"></ground>
+				<ground type = "ground" x="2624" y="532"></ground>
+				<ground type = "ground" x="2752" y="532"></ground>
+				<ground type = "ground" x="2880" y="532"></ground>
+				<ground type = "ground" x="3008" y="532"></ground>
+				<ground type = "ground" x="3136" y="532"></ground>
+				<ground type = "ground" x="3264" y="532"></ground>
+				<ground type = "ground" x="3392" y="532"></ground>
+				<ground type = "ground" x="3520" y="532"></ground>
+				<ground type = "ground" x="3648" y="532"></ground>
+				<ground type = "ground" x="3776" y="532"></ground>
+				<ground type = "ground" x="3904" y="532"></ground>
+				<ground type = "ground" x="4032" y="532"></ground>
+				<ground type = "ground" x="4160" y="532"></ground>
+				<ground type = "ground" x="4288" y="532"></ground>
+				<ground type = "ground" x="4416" y="532"></ground>
+				<ground type = "ground" x="4544" y="532"></ground>
+				<ground type = "ground" x="4672" y="532"></ground>
+				<ground type = "ground" x="4800" y="532"></ground>
+				<ground type = "ground" x="4928" y="532"></ground>
+				<ground type = "ground" x="5056" y="532"></ground>
+				<ground type = "ground" x="5184" y="532"></ground>
+				<ground type = "ground" x="5312" y="532"></ground>
+				<ground type = "ground" x="5440" y="532"></ground>
+				<ground type = "ground" x="5568" y="532"></ground>
+				<ground type = "ground" x="5696" y="532"></ground>
+				<ground type = "ground" x="5824" y="532"></ground>
+				<ground type = "ground" x="5952" y="532"></ground>
+				<ground type = "ground" x="6080" y="532"></ground>
+				<ground type = "ground" x="6208" y="532"></ground>
+				<ground type = "ground" x="6336" y="532"></ground>
+				<ground type = "ground" x="6464" y="532"></ground>
+				<ground type = "ground" x="6592" y="532"></ground>
+                <ground type = "ground" x="6720" y="532"></ground>
+                <ground type = "ground" x="6848" y="532"></ground>
+                <ground type = "ground" x="6976" y="532"></ground>
+                <ground type = "ground" x="7104" y="532"></ground>
+                <ground type = "ground" x="7232" y="532"></ground>
+                <ground type = "ground" x="7360" y="532"></ground>
+                <ground type = "ground" x="7488" y="532"></ground>
+                <ground type = "ground" x="7616" y="532"></ground>
+                <ground type = "ground" x="7744" y="532"></ground>
+                <ground type = "ground" x="7872" y="532"></ground>
+                <ground type = "ground" x="8000" y="532"></ground>
+                <ground type = "ground" x="8128" y="532"></ground>
+                <ground type = "ground" x="8256" y="532"></ground>
+                <ground type = "ground" x="8384" y="532"></ground>
+                <ground type = "ground" x="8512" y="532"></ground>
+                <ground type = "ground" x="8640" y="532"></ground>
+                <ground type = "ground" x="8768" y="532"></ground>
+                <ground type = "ground" x="8896" y="532"></ground>
+                <ground type = "ground" x="9024" y="532"></ground>
+                <ground type = "ground" x="9152" y="532"></ground>
+                <ground type = "ground" x="9280" y="532"></ground>
+                <ground type = "ground" x="9408" y="532"></ground>
+                <ground type = "ground" x="9536" y="532"></ground>
+                <ground type = "ground" x="9664" y="532"></ground>
+                <ground type = "ground" x="9792" y="532"></ground>
+                <ground type = "ground" x="9920" y="532"></ground>
+                <ground type = "ground" x="10048" y="532"></ground>
+                <ground type = "ground" x="10176" y="532"></ground>
+                <ground type = "ground" x="10304" y="532"></ground>
+                <ground type = "ground" x="10432" y="532"></ground>
+                <ground type = "ground" x="10560" y="532"></ground>
+                <ground type = "ground" x="10688" y="532"></ground>
+                <ground type = "ground" x="10816" y="532"></ground>
+                <ground type = "ground" x="10944" y="532"></ground>
+                <ground type = "ground" x="11072" y="532"></ground>
+                <ground type = "ground" x="11200" y="532"></ground>
+                <ground type = "ground" x="11328" y="532"></ground>
+                <ground type = "ground" x="11456" y="532"></ground>
+                <ground type = "ground" x="11584" y="532"></ground>
+                <ground type = "ground" x="11712" y="532"></ground>
+                <ground type = "ground" x="11840" y="532"></ground>
+                <ground type = "ground" x="11968" y="532"></ground>
+                <ground type = "ground" x="12096" y="532"></ground>
+                <ground type = "ground" x="12224" y="532"></ground>
+                <ground type = "ground" x="12352" y="532"></ground>
+                <ground type = "ground" x="12480" y="532"></ground>
+                <ground type = "ground" x="12608" y="532"></ground>
+                <ground type = "ground" x="12736" y="532"></ground>
+				<!-- Water Level-->
+			</groundObjs>
+			
+			<groundObsObjs>
+				<groundObs type = "hole" x = "2752" y="532"></groundObs>
+				<groundObs type = "hole" x = "3648" y="532"></groundObs>
+				<groundObs type = "hole" x = "5056" y="532"></groundObs>
+				<groundObs type = "hole" x = "5696" y="532"></groundObs>
+				<groundObs type = "hole" x = "10432" y="532"></groundObs>
+				<groundObs type = "hole" x = "10944" y="532"></groundObs>
+			</groundObsObjs>
+			
+			
+			<obsObjs>
+				<obs type = "tree_trunk" x ="832" y="420"></obs>
+				<obs type = "tree_trunk" x ="1856" y="420"></obs>
+				<obs type = "tree_trunk" x ="2112" y="420"></obs>
+				<obs type = "tree_trunk" x ="3264" y="420"></obs>
+				<obs type = "tree_trunk" x ="4160" y="420"></obs>
+				<obs type = "tree_trunk" x ="4544" y="420"></obs>
+				<obs type = "tree_trunk" x ="6080" y="420"></obs>
+				<obs type = "tree_trunk" x ="6720" y="420"></obs>
+				<obs type = "tree_trunk" x ="7616" y="420"></obs>
+				<obs type = "tree_trunk" x ="8384" y="420"></obs>
+				<obs type = "tree_trunk" x ="8768" y="420"></obs>
+				<obs type = "tree_trunk" x ="9280" y="420"></obs>
+				<obs type = "tree_trunk" x ="9664" y="420"></obs>
+				<obs type = "tree_trunk" x ="11584" y="420"></obs>
+				<obs type = "tree_trunk" x ="12096" y="420"></obs>
+				<obs type = "tree_trunk" x ="12352" y="420"></obs>
+				<obs type = "tree_trunk" x ="12608" y="420"></obs>				
+				
+			</obsObjs>
+			
+			<itemObjs>
+			</itemObjs>
+ 
+		</level>
+	</levels>
+</data>

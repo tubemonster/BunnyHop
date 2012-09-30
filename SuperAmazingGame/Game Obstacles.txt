@@ -1,0 +1,14 @@
+Lose Life
+
+- tree stump
+- hole in ground
+
+
+Lose points
+
+- vine/spikes on ground
+
+
+Increase Level Difficulty
+
+- slippery rain

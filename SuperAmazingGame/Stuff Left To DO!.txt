@@ -1,0 +1,18 @@
+Programming:
+- Creating the stage
+- Items
+- Adding in the sprites
+- Menu
+- Allow bunny to lose GRACEFULLY :)
+- Pause the game
+
+
+Drawing:
+- Cutscene: in the beginning to introduce plot of game
+- Cutscene: Tabby sits on bunny
+- Cover art (background to start menu)
+
+Miscellaneous:
+- music!
+- start menu (instructions,etc)
+- Buttons
